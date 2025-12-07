@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:kuraimi/providers/theme_cubit.dart';
-import 'package:kuraimi/test/modern_balance_card.dart';
+import 'package:kuraimi/screens/home/widgets/modern_balance_card.dart';
 import 'package:kuraimi/themes/app_gradients.dart';
 import 'user_info_card.dart';
 import 'quick_actions.dart';
